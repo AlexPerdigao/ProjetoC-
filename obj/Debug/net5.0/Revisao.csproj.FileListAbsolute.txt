@@ -1,0 +1,16 @@
+C:\Users\alepe\DigitalInnovationOne\revisao\bin\Debug\net5.0\Revisao.exe
+C:\Users\alepe\DigitalInnovationOne\revisao\bin\Debug\net5.0\Revisao.deps.json
+C:\Users\alepe\DigitalInnovationOne\revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+C:\Users\alepe\DigitalInnovationOne\revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+C:\Users\alepe\DigitalInnovationOne\revisao\bin\Debug\net5.0\Revisao.dll
+C:\Users\alepe\DigitalInnovationOne\revisao\bin\Debug\net5.0\ref\Revisao.dll
+C:\Users\alepe\DigitalInnovationOne\revisao\bin\Debug\net5.0\Revisao.pdb
+C:\Users\alepe\DigitalInnovationOne\revisao\obj\Debug\net5.0\Revisao.csproj.AssemblyReference.cache
+C:\Users\alepe\DigitalInnovationOne\revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alepe\DigitalInnovationOne\revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\alepe\DigitalInnovationOne\revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+C:\Users\alepe\DigitalInnovationOne\revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\alepe\DigitalInnovationOne\revisao\obj\Debug\net5.0\Revisao.dll
+C:\Users\alepe\DigitalInnovationOne\revisao\obj\Debug\net5.0\ref\Revisao.dll
+C:\Users\alepe\DigitalInnovationOne\revisao\obj\Debug\net5.0\Revisao.pdb
+C:\Users\alepe\DigitalInnovationOne\revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
